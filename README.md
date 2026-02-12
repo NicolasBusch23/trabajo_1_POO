@@ -1,1 +1,1 @@
-# trabajo_1_programacion_orientada_a_objetos
+# trabajo_1_POO
