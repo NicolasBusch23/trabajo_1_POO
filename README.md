@@ -28,27 +28,34 @@ trabajo_1_POO/
 └── README.md
 ```
 
-## 🧩 Espacio para consignas / enunciados del taller
+## 🧩 Enunciados del taller resuelto
 
 ### Ejercicio 4
-- **Consigna:** _[pendiente de completar]_
-- **Notas:** _[agregar observaciones si aplica]_
+A la mamá de Juan le preguntan su edad, y contesta: tengo 3 hijos, pregúntele a Juan su edad. Alberto tiene 2/3 de la edad de Juan, Ana tiene 4/3 de la edad de Juan y mi edad es la suma de las tres. Hacer un algoritmo que muestre la edad de los cuatro.
 
 ### Ejercicio 5
-- **Consigna:** _[pendiente de completar]_
-- **Notas:** _[agregar observaciones si aplica]_
+Hacer un seguimiento (prueba de escritorio) del siguiente grupo de instrucciones.
+
+```text
+INICIO
+  SUMA = 0
+  X = 20
+  SUMA = SUMA + X
+  Y = 40
+  X = X + Y ** 2
+  SUMA = SUMA + X / Y
+  ESCRIBA: “EL VALOR DE LA SUMA ES:”, SUMA
+FIN_INICIO
+```
 
 ### Ejercicio 12
-- **Consigna:** _[pendiente de completar]_
-- **Notas:** _[agregar observaciones si aplica]_
+Un empleado trabaja 48 horas en la semana a razón de $5.000 hora. El porcentaje de retención en la fuente es del 12,5% del salario bruto. Se desea saber cuál es el salario bruto, la retención en la fuente y el salario neto del trabajador.
 
 ### Ejercicio 14
-- **Consigna:** _[pendiente de completar]_
-- **Notas:** _[agregar observaciones si aplica]_
+Elabore un algoritmo que lea un número y obtenga su cuadrado y su cubo.
 
 ### Ejercicio 17
-- **Consigna:** _[pendiente de completar]_
-- **Notas:** _[agregar observaciones si aplica]_
+Dado el radio de un círculo, haga un algoritmo que obtenga el área del círculo y la longitud de la circunferencia.
 
 ---
 
